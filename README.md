@@ -3,13 +3,21 @@
 ## 📸 Demo
 
 <div align="center">
-  <img src="demo_pictures/Screenshot 2025-07-13 122424.png" width="400" alt="Demo 1"/>
-  <br>
-  <img src="demo_pictures/Screenshot 2025-07-13 123739.png" width="400" alt="Demo 2"/>
-  <br>
-  <img src="demo_pictures/Screenshot 2025-07-13 123906.png" width="400" alt="Demo 3"/>
-  <br>
-  <em>Neural Style Transfer in action</em>
+
+  <img src="demo_pictures/Screenshot 2025-07-13 122424.png" width="700" alt="Demo 1"/>
+
+  <br><br>
+
+  <img src="demo_pictures/Screenshot 2025-07-13 123739.png" width="700" alt="Demo 2"/>
+
+  <br><br>
+
+  <img src="demo_pictures/Screenshot 2025-07-13 123906.png" width="700" alt="Demo 3"/>
+
+  <br><br>
+
+  <em>🎨 Neural Style Transfer in action - Transform any photo into artistic masterpiece!</em>
+
 </div>
 
 ---
@@ -121,18 +129,37 @@ This project helped me practice:
 ## �️ More Demo Results
 
 <div align="center">
-  <img src="demo_pictures/Screenshot 2025-07-13 124202.png" width="350" alt="Demo 4"/>
-  <img src="demo_pictures/Screenshot 2025-07-13 124454.png" width="350" alt="Demo 5"/>
+
+  <img src="demo_pictures/Screenshot 2025-07-13 124202.png" width="600" alt="Demo 4"/>
+
   <br><br>
-  <img src="demo_pictures/Screenshot 2025-07-13 124625.png" width="350" alt="Demo 6"/>
-  <img src="demo_pictures/Screenshot 2025-07-13 125205.png" width="350" alt="Demo 7"/>
+
+  <img src="demo_pictures/Screenshot 2025-07-13 124454.png" width="600" alt="Demo 5"/>
+
   <br><br>
-  <img src="demo_pictures/Screenshot 2025-07-13 125407.png" width="350" alt="Demo 8"/>
-  <img src="demo_pictures/Screenshot 2025-07-13 125910.png" width="350" alt="Demo 9"/>
+
+  <img src="demo_pictures/Screenshot 2025-07-13 124625.png" width="600" alt="Demo 6"/>
+
   <br><br>
-  <img src="demo_pictures/Screenshot 2025-07-13 130829.png" width="350" alt="Demo 10"/>
-  <br>
-  <em>Various style transfer examples showcasing different artistic styles and content types</em>
+
+  <img src="demo_pictures/Screenshot 2025-07-13 125205.png" width="600" alt="Demo 7"/>
+
+  <br><br>
+
+  <img src="demo_pictures/Screenshot 2025-07-13 125407.png" width="600" alt="Demo 8"/>
+
+  <br><br>
+
+  <img src="demo_pictures/Screenshot 2025-07-13 125910.png" width="600" alt="Demo 9"/>
+
+  <br><br>
+
+  <img src="demo_pictures/Screenshot 2025-07-13 130829.png" width="600" alt="Demo 10"/>
+
+  <br><br>
+
+  <em>✨ Explore different artistic styles and see the magic happen!</em>
+
 </div>
 
 ---
