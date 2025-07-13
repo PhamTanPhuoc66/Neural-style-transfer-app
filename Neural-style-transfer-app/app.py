@@ -6,7 +6,7 @@ from PIL import Image
 import os
 
 # --- IMPORT THE MODEL CLASS FROM YOUR OTHER FILE ---
-# Make sure the file 'style_transfer_model.py' is in the same directory.
+
 try:
     # Updated to match the filename of the fixed model
     from model import StyleTransferModel, tensor_to_image
@@ -16,14 +16,13 @@ except ImportError:
     exit()
 
 # --- SETUP AND CONFIGURATION ---
-# Create the 'pictures' directory if it doesn't exist
 PICTURES_DIR = "pictures"
 if not os.path.exists(PICTURES_DIR):
     os.makedirs(PICTURES_DIR)
     print(f"Created directory: {PICTURES_DIR}")
     print("Please add some style images (e.g., 'style1.jpg', 'style2.jpg') to this directory.")
 
-# Find example style images in the 'pictures' directory
+
 example_styles = [os.path.join(PICTURES_DIR, f) for f in os.listdir(PICTURES_DIR) if f.endswith(('.jpg', '.jpeg', '.png'))]
 
 # Determine the device for computation
