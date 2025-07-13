@@ -158,6 +158,10 @@ This project helped me practice:
 
   <br><br>
 
+  <img src="demo_pictures/Screenshot 2025-07-13 123156.png" width="600" alt="Demo 10"/>
+
+
+
   <em>✨ Explore different artistic styles and see the magic happen!</em>
 
 </div>
